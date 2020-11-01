@@ -1,5 +1,3 @@
-I'm a web developer, military veteran, and passionate about cybersecurity. Currently working on learning python, scripting, and working through CompTia Security+ course on [Cybrary.it](https://www.cybrary.it/).
-
 ![](t-rex.gif)
 
 <!--
