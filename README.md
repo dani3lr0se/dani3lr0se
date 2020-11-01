@@ -1,6 +1,6 @@
 I'm a web developer, military veteran, and passionate about cybersecurity. Currently working on learning python, scripting, and working through CompTia Security+ course on [Cybrary.it](https://www.cybrary.it/).
 
-        ![](pacman.gif)
+![](pacman.gif)
 
 <!--
 **dani3lr0se/dani3lr0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
